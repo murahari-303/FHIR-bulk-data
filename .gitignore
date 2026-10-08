@@ -1,0 +1,5 @@
+*.zip
+*.lnk
+desktop.ini
+__pycache__/
+.DS_Store
